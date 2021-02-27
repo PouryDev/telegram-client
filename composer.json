@@ -1,12 +1,21 @@
 {
+    "name": "pk/pk-telegram-framework",
+    "description": "A simple client for telegram synced with telegram api document",
+    "type": "library",
+    "authors": [
+        {
+            "name": "PK",
+            "email": "pk74ever@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.0"
+    },
     "autoload": {
         "psr-4": {
-            "PK\\": [
-                "includes"
-            ],
-            "PK\\components\\": [
-                "components"
-            ]
+            "PK\\": "includes",
+            "PK\\components\\": "components"
         }
     }
 }
