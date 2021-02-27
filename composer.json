@@ -8,7 +8,7 @@
             "email": "pk74ever@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=8.0"
     },
@@ -17,5 +17,6 @@
             "PK\\": "includes",
             "PK\\components\\": "components"
         }
-    }
+    },
+    "version": "1.x"
 }
