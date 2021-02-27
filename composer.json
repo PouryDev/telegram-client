@@ -1,10 +1,10 @@
 {
-    "name": "pk/pk-telegram-framework",
+    "name": "pk7/pk-telegram-framework",
     "description": "A simple client for telegram synced with telegram api document",
     "type": "library",
     "authors": [
         {
-            "name": "PK",
+            "name": "Pouriya Khazaei",
             "email": "pk74ever@gmail.com"
         }
     ],
