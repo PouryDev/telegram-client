@@ -3,5 +3,5 @@ PK's telegram client
 </h1>
 
 <p>
-Hello
+composer require pk7/pk-telegram-framework
 </p>
